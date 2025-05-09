@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝗞𝗛𝗔𝗡-𝗠𝗗</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝗕𝗟𝗔𝗗𝗘 𝗫𝗠𝗗</h1>
 </p>
 
 <p align="center">
@@ -7,15 +7,15 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/JawadYT36/followers"><img title="Followers" src="https://img.shields.io/github/followers/JawadYT36?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/JawadYT36/KHAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JawadYT36/KHAN-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/JawadYT36/KHAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JawadYT36/KHAN-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/JawadYT36/KHAN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/JawadYT36/KHAN-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/JawadYT36/KHAN-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/Bladehack1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Bladehack1?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Bladehack1/BLADE-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Bladehack1/BLADE-XMD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/Bladehack1/BLADE-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Bladehack1/BLADE-XMD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/Bladehack1/BLADE-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Bladehack1/BLADE-XMD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/Bladehack1/BLADE-XMD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KHAN-MD&label=VISITORS&style=flat-square&color=0002FF" />
+  <img src="https://komarev.com/ghpvc/?username=BLADE-XMD&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
 > **Current Bot Version `5.0.0`**  
@@ -35,10 +35,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/divider.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Bladehack1/BLADE-XMD/blob/main/assets/divider.gif?raw=true" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
+  <img src="https://github.com/Bladehack1/BLADE-XMD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
 </div>
 
 ## 🛰️ Deployment Steps
@@ -47,7 +47,7 @@
     
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
-  <a href='https://github.com/JawadYT36/KHAN-MD/fork' target="_blank">
+  <a href='https://github.com/Bladehack1/BLADE-XMD/fork' target="_blank">
     <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
   </a>
 </div>
@@ -73,7 +73,7 @@
   
   ---
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
-    <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
+    <img src="https://github.com/Bladehack1/BLADE-XMD/blob/main/assets/warning.gif?raw=true" width="15"/> 
     Connection issues may require VPN activation
   </p>
 </div>
@@ -81,7 +81,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/Bladehack1/BLADE-XMD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
 ## 📡 DEPLOYMENT OPTIONS
@@ -89,11 +89,11 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadYT36/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Bladehack1/BLADE-XMD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=JawadYT36/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=Bladehack1/BLADE-XMD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -106,7 +106,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j/1368" target="_blank">
+      <a href="https://whatsapp.com/channel/0029Vb3h64f1NCrMBksGl826" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white"/>
       </a>
     </td>
@@ -114,7 +114,7 @@
 </table>  
 
 <div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Bladehack1/BLADE-XMD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
 </div>
 
 ## 🌟 BOT FEATURES
@@ -128,19 +128,19 @@
 ```
 
 <div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Bladehack1/BLADE-XMD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
 </div>
 
 ## 🪀  SUPPORT CHANNEL
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j">
+  <a href="https://whatsapp.com/channel/0029Vb3h64f1NCrMBksGl826">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
+  <img src="https://github.com/Bladehack1/BLADE-XMD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
 </div>
 
 ## ⚠️ WARNING !
@@ -151,21 +151,21 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Bladehack1/BLADE-XMD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
 </div>
 
 ## 🗃️ PROJECT ARCHITECTS
 <div align="center">
-  <a href="https://github.com/JawadYT36">
-    <img src="https://github-readme-stats.vercel.app/api?username=JawadYT36&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+  <a href="https://github.com/Bladehack1">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bladehack1&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Bladehack1/BLADE-XMD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
-## 👑 KHAN STATUS
+## 👑 BLADE STATUS
 
 ```diff
 + Project Status: Active
@@ -174,5 +174,5 @@
 ```
 
 <div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Bladehack1/BLADE-XMD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
